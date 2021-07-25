@@ -1,35 +1,3 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class KeyboardInput : MonoBehaviour
-{
-    public ObjectController controller;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.D))
-        {
-            controller.MoveSelected(1);
-        }
-        if (Input.GetKeyDown(KeyCode.A))
-        {
-            controller.MoveSelected(-1);
-        }
-        if (Input.GetKeyDown(KeyCode.W))
-        {
-            controller.MoveFootRest(1);
-        }
-        if (Input.GetKeyDown(KeyCode.S))
-        {
-            controller.MoveFootRest(-1);
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:acdf8644e89894ac3d9efdf232e6418872bb4142f1a45d38e1bd0c3e3ed51195
+size 738
