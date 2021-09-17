@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Select_Block
-  m_Shader: {fileID: -6465566751694194690, guid: 9b1959c4eaad36544b71d660e5fdd39a,
+  m_Shader: {fileID: -6465566751694194690, guid: 6aecac01d91e0c3489005a004b48d649,
     type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
@@ -21,7 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_F75F7678:
-        m_Texture: {fileID: 2800000, guid: f0c5c262541115f4ba234575cbfb6ea6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 76b52a10b97366442a821909c54dc3a5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -46,6 +46,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_43023F34_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 76b52a10b97366442a821909c54dc3a5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -84,6 +88,7 @@ Material:
     - Color_32D10908: {r: 0, g: 0, b: 0, a: 0}
     - Color_39812A63: {r: 0, g: 0, b: 0, a: 0}
     - Color_79B0FA5C: {r: 2.7074442, g: 0.1701012, b: 0, a: 1}
+    - Color_7C7A808B: {r: 0, g: 1.6156863, b: 2.4941177, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
