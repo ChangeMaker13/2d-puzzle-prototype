@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BackGround Glow
+  m_Name: Yellow sky
   m_Shader: {fileID: -6465566751694194690, guid: 2cb4f02032bdd8347a560d8909e98baa,
     type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
@@ -88,7 +88,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_C7EE8DE0: {r: 0.66669554, g: 0.49101225, b: 0.70723784, a: 1}
+    - Color_C7EE8DE0: {r: 0.9433962, g: 0.8605618, b: 0.5473478, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
