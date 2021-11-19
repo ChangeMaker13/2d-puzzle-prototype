@@ -10,7 +10,7 @@ Material:
   m_Name: blackhole
   m_Shader: {fileID: -6465566751694194690, guid: a7143e9cfdec3054998fc2e887d137eb,
     type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
