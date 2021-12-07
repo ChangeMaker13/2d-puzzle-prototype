@@ -41,7 +41,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - CheckDie: 0
+    - CheckDie: 1
     - Dissolve: 0.01
     - Dissolve_Outline_Thickness: 0.036
     - Noise_Power: 0.27
@@ -54,7 +54,7 @@ Material:
     - _EnableExternalAlpha: 0
     m_Colors:
     - Color_79B0FA5C: {r: 1.7523104, g: 4.7024026, b: 2.5934267, a: 1}
-    - Color_9D33D0A2: {r: 0.8490566, g: 0.8490566, b: 0.8490566, a: 0.29803923}
+    - Color_9D33D0A2: {r: 1, g: 0, b: 0, a: 1}
     - Color_B2BB8508: {r: 0.2264151, g: 0.2264151, b: 0.2264151, a: 0.09411765}
     - Color_C95094AF: {r: 0.044420566, g: 0.8561053, b: 0.050569687, a: 1}
     - Dissolve_Outline_Color: {r: 1.24093, g: 0.6092176, b: 0.3775084, a: 1}
